@@ -1,0 +1,7 @@
+[package]
+name = "krillscript"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+krill_frontend = { version = "0.1.0", path = "../krill_frontend" }
